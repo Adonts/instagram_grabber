@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/W9gkIoB.png" align="left"/>
+
 # instagram_grabber
 
 [![Version](https://img.shields.io/badge/version-1.0-%23ea7a09.svg?style=flat)](https://github.com/Aspoky/instagram_grabber/) [![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://github.com/Aspoky/instagram_grabber/) [![Downloads](https://img.shields.io/pypi/dm/instagram-grabber.svg)](https://github.com/Aspoky/instagram_grabber/) [![Updates](https://pyup.io/repos/github/Aspoky/instagram_grabber/shield.svg)](https://pypi.org/project/instagram-grabber/)
