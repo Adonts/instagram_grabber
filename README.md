@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/W9gkIoB.png" align="left"/>
+<img src="https://i.imgur.com/W9gkIoB.png" align="left" margin="100px"/>
 
 # instagram_grabber
 
