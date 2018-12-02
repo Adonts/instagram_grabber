@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/x1A87m0.png"></p>
+<p align="center"><a href=""><img src="https://i.imgur.com/x1A87m0.png"></a></p>
 
 <p align="center">
   <a href="https://github.com/Aspoky/instagram_grabber">
@@ -22,7 +22,8 @@ or
 $ pip3 install instagram_grabber
 ```
 
-### Includes:
+<h1>Includes:</h1>
+
 - Login from a file ```username:password```, forget about having to enter it manually.
 - Get user data: number of posts, followers (detailed) and following like this:
 
@@ -30,5 +31,6 @@ $ pip3 install instagram_grabber
 
 - Get links to user photos
 
-# License
+<h1>License</h1>
+
 Using [MIT](https://github.com/Aspoky/instagram_grabber/blob/master/LICENSE) license.
