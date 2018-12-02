@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Aspoky/instagram_grabber">
-    <img src="https://img.shields.io/badge/version-1.0-%23ea7a09.svg?style=flat">
+    <img src="https://img.shields.io/badge/version-1.1-%23ea7a09.svg?style=flat">
     <img src="https://img.shields.io/badge/language-python-blue.svg?style=flat">
     <img src="https://img.shields.io/pypi/dm/instagram-grabber.svg">
   </a>

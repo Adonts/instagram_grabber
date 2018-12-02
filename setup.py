@@ -2,10 +2,10 @@ import setuptools
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
-
+    
 setuptools.setup(
       name='instagram_grabber',
-      version='1.0',
+      version='1.1',
       description='Get data of users like followers, photos...',
       long_description=long_description,
       long_description_content_type="text/markdown",
