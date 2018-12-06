@@ -24,12 +24,13 @@ $ pip3 install instagram_grabber
 
 <h1>Includes:</h1>
 
-- Login from a file ```username:password```, forget about having to enter it manually.
 - Get user data: number of posts, followers (detailed) and following like this:
 
   ![](https://i.imgur.com/vIcvi6n.png?raw=true)
 
 - Get links to user photos
+
+- Added account.dat for login from a file with ```username:password``` <img width="30" src="https://i.imgur.com/LsAT7H8.png">
 
 - Block users: only one user or as many as you want <img width="30" src="https://i.imgur.com/LsAT7H8.png">
 
