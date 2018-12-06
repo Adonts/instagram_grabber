@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Aspoky/instagram_grabber">
-    <img src="https://img.shields.io/badge/version-1.1-%23ea7a09.svg?style=flat">
+    <img src="https://img.shields.io/badge/version-1.2-%23ea7a09.svg?style=flat">
     <img src="https://img.shields.io/badge/language-python-blue.svg?style=flat">
     <img src="https://img.shields.io/pypi/dm/instagram-grabber.svg">
   </a>
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-Grab profile data, get user links and more soon.
+Grab profile data, get user photo links, Instagram ID, block users, like photos, see stories and more soon.
 
 For downloading, type 
 ```sh
@@ -30,6 +30,12 @@ $ pip3 install instagram_grabber
   ![](https://i.imgur.com/vIcvi6n.png?raw=true)
 
 - Get links to user photos
+
+- Block users: only one user or as many as you want <img width="30" src="https://i.imgur.com/LsAT7H8.png">
+
+- Like photos: like all the photos of all the users you want <img width="30" src="https://i.imgur.com/LsAT7H8.png">
+
+- See stories: see all the stories of an user <img width="30" src="https://i.imgur.com/LsAT7H8.png">
 
 <h1>License</h1>
 
