@@ -5,8 +5,8 @@ with open("README.md", "r") as fh:
     
 setuptools.setup(
       name='instagram_grabber',
-      version='1.1',
-      description='Get data of users like followers, photos...',
+      version='1.2',
+      description='Tool for grabbing profile data, Instagram ID, block users and more...',
       long_description=long_description,
       long_description_content_type="text/markdown",
       url='https://github.com/Aspoky/instagram_grabber/',
